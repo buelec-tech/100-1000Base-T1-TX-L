@@ -4,6 +4,13 @@ The **BUELEC 100/1000Base-T1-TX-L** is a compact, bidirectional physical layer c
 
 Built on field-proven silicon—**Marvell 88Q2112** for the T1 side and **Realtek RTL8211FI** for the TX side—this converter ensures zero packet loss, ultra-low latency, and rock-solid stability for automotive diagnostic, testing, and integration applications.
 
+## Supported Automotive Ethernet Standards
+
+| IEEE Standard | Automotive Ethernet Mode | Support |
+| :--- | :--- | :--- |
+| IEEE 802.3bw | 100BASE-T1 | Supported |
+| IEEE 802.3bp | 1000BASE-T1 | Supported |
+
 ---
 
 ## Key Features
